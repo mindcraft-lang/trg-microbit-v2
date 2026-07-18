@@ -5,5 +5,5 @@ Program the BBC micro:bit (v2) with Mindcraft.
 Create a new project for this target:
 
 ```
-gh:mindcraft-lang/trg-microbit-v2@0.6.0
+gh:mindcraft-lang/trg-microbit-v2@0.7.0
 ```
